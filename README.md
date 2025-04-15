@@ -51,7 +51,3 @@ Lancer le serveur : node index.js
 4. Recharge le quota via `POST /recharge` si besoin
 
 
-## 👨‍💻 Auteur
-
-Travail réalisé dans le cadre du TP REST – Master 2IAD  
-**Nom :** [Zineb BERKAOUI]
